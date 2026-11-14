@@ -20,14 +20,14 @@ Most of my production work lives in employer repos. The pinned projects are the 
 
 | Project | What it shows | Live |
 |---|---|---|
+| [rag-evals-demo](https://github.com/abrasive519mars/rag-evals-demo) | Grounded QA with citations over 759k MS MARCO passages; BM25, fine-tuned MiniLM over HNSW, reciprocal rank fusion and a cross-encoder reranker, each measured on 1,000 held-out queries with bootstrap intervals; answers graded by an independent judge | repo |
 | [forensiq](https://github.com/abrasive519mars/forensiq) | Credit appraisal pipeline: document parsing, forensic checks, LightGBM + SHAP scoring, circular-trading graph detection | soon |
 | [hybrid-search-engine](https://github.com/abrasive519mars/hybrid-search-engine) | BM25 + fine-tuned MiniLM/HNSW fused with reciprocal rank fusion on MS MARCO; Recall@10 0.825 to 0.890, MRR down 2.9%, measured over 200 queries | repo |
 | [kindscore](https://github.com/abrasive519mars/kindscore) | Production Next.js app with Stripe payments, Supabase, Vitest and Playwright suites | [kindscore.vercel.app](https://kindscore.vercel.app) |
 | [mini-gpt](https://github.com/abrasive519mars/mini-gpt) | 15.8M-parameter GPT written from scratch in PyTorch: causal multi-head attention, weight-tied head, AMP training, val loss 1.76 | repo |
 
-<!-- Add when live: rag-evals-demo (retrieval modes compared on recall, faithfulness, latency) -->
 
-**Contact**: EMAIL_HERE · [LinkedIn](https://www.linkedin.com/in/saran-susarla)
+**Contact**: [LinkedIn](https://www.linkedin.com/in/saran-susarla)
 
 <!-- Optional stats card. Only counts private contributions after the GitHub setting "Include private contributions on my profile" is on. -->
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=abrasive519mars&show_icons=true&count_private=true&hide=stars,issues&hide_title=true) -->
