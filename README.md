@@ -1,4 +1,4 @@
-# Saran Susarla
+# Sai Saran Susarla
 
 GenAI backend engineer. I build retrieval systems, LLM agents, and the evals that say whether they work.
 
