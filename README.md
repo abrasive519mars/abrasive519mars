@@ -20,9 +20,9 @@ Most of my production work lives in employer repos. The pinned projects are the 
 
 | Project | What it shows | Live |
 |---|---|---|
-| [rag-evals-demo](https://github.com/abrasive519mars/rag-evals-demo) | Grounded QA with citations over 759k MS MARCO passages; BM25, fine-tuned MiniLM over HNSW, reciprocal rank fusion and a cross-encoder reranker, each measured on 1,000 held-out queries with bootstrap intervals; answers graded by an independent judge | repo |
+| [rag-evals-demo](https://github.com/abrasive519mars/rag-evals-demo) | Grounded QA with citations over 759k MS MARCO passages; BM25, MiniLM over HNSW, reciprocal rank fusion and a cross-encoder reranker, each measured on 1,000 held-out queries with bootstrap intervals; answers graded by an independent judge | repo |
 | [forensiq](https://github.com/abrasive519mars/forensiq) | Credit appraisal pipeline: document parsing, forensic checks, LightGBM + SHAP scoring, circular-trading graph detection | soon |
-| [hybrid-search-engine](https://github.com/abrasive519mars/hybrid-search-engine) | BM25 + fine-tuned MiniLM/HNSW fused with reciprocal rank fusion on MS MARCO; Recall@10 0.825 to 0.890, MRR down 2.9%, measured over 200 queries | repo |
+| [hybrid-search-engine](https://github.com/abrasive519mars/hybrid-search-engine) | BM25 + MiniLM/HNSW fused with reciprocal rank fusion on MS MARCO; Recall@10 0.825 to 0.890, MRR down 2.9%, measured over 200 queries | repo |
 | [kindscore](https://github.com/abrasive519mars/kindscore) | Production Next.js app with Stripe payments, Supabase, Vitest and Playwright suites | [kindscore.vercel.app](https://kindscore.vercel.app) |
 | [mini-gpt](https://github.com/abrasive519mars/mini-gpt) | 15.8M-parameter GPT written from scratch in PyTorch: causal multi-head attention, weight-tied head, AMP training, val loss 1.76 | repo |
 
